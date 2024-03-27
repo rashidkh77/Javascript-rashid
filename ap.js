@@ -295,16 +295,16 @@
 
 // Call the quiz function
 // quiz();
-onclick= alert("Hello Rashid");
+// onclick= alert("Hello Rashid");
 
-/* <script>
+//* <script>
     // Store the string in a variable
-    var myString = "▬▬▬▬▬▬▬▬▬ஜ ۩۞۩ ஜ▬▬▬▬▬▬▬▬▬";
+    // var myString = "▬▬▬▬▬▬▬▬▬ஜ ۩۞۩ ஜ▬▬▬▬▬▬▬▬▬";
 
     // Display the string in an alert
-    alert(myString);
+    // alert(myString);
 
     // Display the string in the browser
-    document.write("<p>" + myString + "</p>");
-</script>
+    // document.write("<p>" + myString + "</p>");
+// </script>
 
